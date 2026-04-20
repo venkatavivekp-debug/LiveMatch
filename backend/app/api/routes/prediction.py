@@ -3,6 +3,7 @@ from __future__ import annotations
 from typing import Any, Optional
 
 from fastapi import APIRouter, HTTPException, Query, status
+import logging
 from app.core.config import get_settings
 from app.schemas.prediction import (
     BatchPredictionItem,
@@ -18,6 +19,7 @@ from app.services.catalog_service import CatalogService
 from app.services.prediction_service import PredictionService
 
 router = APIRouter(tags=["predictions"])
+logger = logging.getLogger(__name__)
 VALID_STATES = {"live", "upcoming", "historical", "completed"}
 
 
@@ -96,7 +98,8 @@ def predict_batch(
             items.append(BatchPredictionItem(index=idx, prediction=PredictionResponse(**prediction)))
             success += 1
         except Exception as exc:  # noqa: BLE001
-            items.append(BatchPredictionItem(index=idx, error=str(exc)))
+            logger.exception("Batch prediction failed index=%s", idx)
+            items.append(BatchPredictionItem(index=idx, error="Prediction failed"))
 
     failed = len(payload.requests) - success
     return BatchPredictionResponse(

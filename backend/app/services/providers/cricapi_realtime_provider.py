@@ -53,6 +53,18 @@ def _normalize_key(value: Any) -> str:
     return re.sub(r"[^a-z0-9]+", "", _safe_lower(value))
 
 
+_APIKEY_REDACT_RE = re.compile(r"(apikey=)([^&\s]+)", flags=re.IGNORECASE)
+
+
+def _redact_sensitive(text: Any) -> str:
+    if text is None:
+        return ""
+    raw = str(text)
+    if not raw:
+        return ""
+    return _APIKEY_REDACT_RE.sub(r"\1REDACTED", raw)
+
+
 TOURNAMENT_ALIASES: dict[str, set[str]] = {
     "ipl": {"ipl", "indianpremierleague", "tataipl"},
     "icc_t20_wc": {"icct20wc", "iccmensworldcup", "worldcupt20", "t20worldcup"},
@@ -205,7 +217,7 @@ class CricAPIRealtimeProvider(RealtimeContextProvider):
         self.stale_cache_ttl_seconds = max(self.cache_ttl_seconds, int(stale_cache_ttl_seconds))
         self.cache_store = cache_store
         if not self.api_key:
-            logger.error(
+            logger.warning(
                 "LIVE_CRICKET_API_KEY is not configured. CricAPI provider will only use cache or return unavailable."
             )
 
@@ -251,13 +263,13 @@ class CricAPIRealtimeProvider(RealtimeContextProvider):
                 cache_hit = self.cache_store.set(cache_key, payload)
                 return self._cache_hit_payload(cache_hit, source="live")
             except (HTTPError, URLError, TimeoutError, json.JSONDecodeError, ValueError) as exc:
-                last_error = str(exc)
+                last_error = _redact_sensitive(exc)
                 logger.warning(
                     "CricAPI request failed endpoint=%s attempt=%s/%s error=%s",
                     endpoint,
                     attempt + 1,
                     self.max_retries + 1,
-                    exc,
+                    last_error or exc.__class__.__name__,
                 )
                 if attempt < self.max_retries:
                     sleep_seconds = self.backoff_seconds * (2**attempt)
