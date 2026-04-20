@@ -1,0 +1,85 @@
+player,team,sport,tournament,role,goals_last5,xg_per90,shot_conversion,def_actions,key_passes,impact_score,form_points_last5
+Bukayo Saka,Arsenal,football,EPL,goal_scorer,0,0.596,0.276,0.5,3.364,36.763,11.743
+Martin Odegaard,Arsenal,football,EPL,goal_scorer,1,0.541,0.137,2.398,3.8,38.749,11.743
+Kai Havertz,Arsenal,football,EPL,standout,1,0.523,0.179,3.79,4.244,42.346,11.743
+Declan Rice,Arsenal,football,EPL,standout,1,0.396,0.105,3.12,1.803,30.0,11.743
+Gabriel Martinelli,Arsenal,football,EPL,standout,2,0.115,0.159,2.657,3.671,33.399,11.743
+William Saliba,Arsenal,football,EPL,defender,1,0.535,0.157,3.67,2.433,38.025,11.743
+Ben White,Arsenal,football,EPL,defender,0,0.207,0.196,7.648,1.801,30.0,11.743
+Erling Haaland,Manchester City,football,EPL,goal_scorer,0,0.555,0.129,1.792,2.812,30.0,8.02
+Phil Foden,Manchester City,football,EPL,goal_scorer,3,0.635,0.075,3.548,2.572,50.772,8.02
+Kevin De Bruyne,Manchester City,football,EPL,standout,1,0.506,0.03,1.936,3.091,31.26,8.02
+Rodri,Manchester City,football,EPL,standout,0,0.487,0.138,4.524,1.929,30.0,8.02
+Bernardo Silva,Manchester City,football,EPL,standout,1,0.43,0.132,3.422,2.77,34.221,8.02
+Ruben Dias,Manchester City,football,EPL,defender,0,0.259,0.112,7.19,3.5,30.0,8.02
+Kyle Walker,Manchester City,football,EPL,defender,0,0.262,0.194,5.162,1.678,30.0,8.02
+Mohamed Salah,Liverpool,football,EPL,goal_scorer,2,0.668,0.191,5.392,3.357,53.695,6.556
+Darwin Nunez,Liverpool,football,EPL,goal_scorer,3,0.628,0.306,2.631,0.496,55.082,6.556
+Luis Diaz,Liverpool,football,EPL,standout,2,0.216,0.125,5.357,0.898,32.433,6.556
+Alexis Mac Allister,Liverpool,football,EPL,standout,0,0.056,0.08,3.791,3.024,30.0,6.556
+Dominik Szoboszlai,Liverpool,football,EPL,standout,1,0.082,0.03,3.098,2.028,30.0,6.556
+Virgil van Dijk,Liverpool,football,EPL,defender,1,0.378,0.127,7.868,2.729,37.292,6.556
+Trent Alexander-Arnold,Liverpool,football,EPL,defender,1,0.181,0.111,6.854,3.321,30.784,6.556
+Son Heung-min,Tottenham Hotspur,football,EPL,goal_scorer,1,0.623,0.177,2.788,3.33,42.337,6.58
+James Maddison,Tottenham Hotspur,football,EPL,goal_scorer,0,0.368,0.116,0.5,1.822,30.0,6.58
+Dejan Kulusevski,Tottenham Hotspur,football,EPL,standout,1,0.24,0.13,4.961,3.828,32.271,6.58
+Richarlison,Tottenham Hotspur,football,EPL,standout,0,0.47,0.125,1.493,1.906,30.0,6.58
+Yves Bissouma,Tottenham Hotspur,football,EPL,standout,0,0.156,0.102,4.446,4.221,30.0,6.58
+Cristian Romero,Tottenham Hotspur,football,EPL,defender,0,0.335,0.068,7.354,2.369,30.0,6.58
+Pedro Porro,Tottenham Hotspur,football,EPL,defender,0,0.41,0.09,5.539,1.43,30.0,6.58
+Cole Palmer,Chelsea,football,EPL,goal_scorer,1,0.61,0.181,3.592,2.862,42.054,11.085
+Nicolas Jackson,Chelsea,football,EPL,goal_scorer,3,0.502,0.116,4.921,2.169,49.189,11.085
+Raheem Sterling,Chelsea,football,EPL,standout,2,0.334,0.113,3.628,4.451,40.667,11.085
+Enzo Fernandez,Chelsea,football,EPL,standout,3,0.29,0.128,4.937,1.654,42.307,11.085
+Moises Caicedo,Chelsea,football,EPL,standout,1,0.276,0.136,1.5,0.91,30.0,11.085
+Reece James,Chelsea,football,EPL,defender,0,0.124,0.097,5.972,4.437,30.0,11.085
+Levi Colwill,Chelsea,football,EPL,defender,2,0.145,0.137,5.767,2.216,33.905,11.085
+Bruno Fernandes,Manchester United,football,EPL,goal_scorer,2,0.637,0.173,4.915,1.358,47.491,9.622
+Marcus Rashford,Manchester United,football,EPL,goal_scorer,2,0.914,0.201,5.58,2.592,60.18,9.622
+Rasmus Hojlund,Manchester United,football,EPL,standout,1,0.272,0.111,1.597,2.93,30.0,9.622
+Alejandro Garnacho,Manchester United,football,EPL,standout,0,0.373,0.174,3.66,2.214,30.0,9.622
+Casemiro,Manchester United,football,EPL,standout,1,0.237,0.167,0.5,2.164,30.0,9.622
+Lisandro Martinez,Manchester United,football,EPL,defender,0,0.071,0.188,8.111,1.781,30.0,9.622
+Luke Shaw,Manchester United,football,EPL,defender,0,0.05,0.093,10.857,2.935,30.0,9.622
+Alexander Isak,Newcastle United,football,EPL,goal_scorer,1,0.615,0.112,2.465,2.599,37.566,10.843
+Anthony Gordon,Newcastle United,football,EPL,goal_scorer,1,0.661,0.207,4.203,1.812,43.272,10.843
+Bruno Guimaraes,Newcastle United,football,EPL,standout,2,0.508,0.071,1.402,3.836,40.458,10.843
+Harvey Barnes,Newcastle United,football,EPL,standout,0,0.477,0.098,5.619,2.631,30.0,10.843
+Joelinton,Newcastle United,football,EPL,standout,1,0.499,0.102,1.306,2.051,31.292,10.843
+Kieran Trippier,Newcastle United,football,EPL,defender,1,0.061,0.152,5.53,3.648,30.0,10.843
+Sven Botman,Newcastle United,football,EPL,defender,0,0.17,0.036,5.013,2.748,30.0,10.843
+Ollie Watkins,Aston Villa,football,EPL,goal_scorer,1,0.515,0.182,3.366,1.491,36.267,10.378
+Leon Bailey,Aston Villa,football,EPL,goal_scorer,2,0.643,0.209,4.002,2.796,51.067,10.378
+Moussa Diaby,Aston Villa,football,EPL,standout,3,0.268,0.105,1.644,1.468,36.673,10.378
+Douglas Luiz,Aston Villa,football,EPL,standout,0,0.156,0.116,3.602,2.551,30.0,10.378
+John McGinn,Aston Villa,football,EPL,standout,0,0.406,0.157,2.713,1.847,30.0,10.378
+Pau Torres,Aston Villa,football,EPL,defender,1,0.306,0.048,6.378,2.762,30.228,10.378
+Ezri Konsa,Aston Villa,football,EPL,defender,0,0.307,0.047,8.905,3.748,30.0,10.378
+Robert Lewandowski,Barcelona,football,UCL,goal_scorer,1,0.601,0.07,0.919,2.206,32.869,9.217
+Lamine Yamal,Barcelona,football,UCL,goal_scorer,0,0.65,0.29,0.882,1.663,35.97,9.217
+Raphinha,Barcelona,football,UCL,standout,1,0.506,0.059,3.448,4.321,36.575,9.217
+Pedri,Barcelona,football,UCL,standout,0,0.101,0.099,2.063,3.313,30.0,9.217
+Frenkie de Jong,Barcelona,football,UCL,standout,1,0.05,0.146,1.96,3.774,30.0,9.217
+Jules Kounde,Barcelona,football,UCL,defender,0,0.191,0.147,7.873,2.948,30.0,9.217
+Ronald Araujo,Barcelona,football,UCL,defender,0,0.355,0.068,6.923,1.076,30.0,9.217
+Vinicius Junior,Real Madrid,football,UCL,goal_scorer,2,0.437,0.126,4.285,2.742,41.595,11.839
+Rodrygo,Real Madrid,football,UCL,goal_scorer,1,0.753,0.168,3.058,2.769,45.051,11.839
+Jude Bellingham,Real Madrid,football,UCL,standout,0,0.346,0.093,2.259,3.863,30.0,11.839
+Federico Valverde,Real Madrid,football,UCL,standout,0,0.05,0.201,7.589,2.095,30.0,11.839
+Aurelien Tchouameni,Real Madrid,football,UCL,standout,0,0.237,0.106,2.658,1.387,30.0,11.839
+Antonio Rudiger,Real Madrid,football,UCL,defender,1,0.353,0.045,7.759,4.553,36.644,11.839
+Dani Carvajal,Real Madrid,football,UCL,defender,1,0.233,0.113,7.607,0.769,30.0,11.839
+Antoine Griezmann,Atletico Madrid,football,UCL,goal_scorer,2,0.495,0.282,2.686,4.168,51.011,8.271
+Alvaro Morata,Atletico Madrid,football,UCL,goal_scorer,0,0.632,0.206,1.436,2.677,34.551,8.271
+Angel Correa,Atletico Madrid,football,UCL,standout,2,0.235,0.035,2.968,1.598,30.0,8.271
+Rodrigo De Paul,Atletico Madrid,football,UCL,standout,0,0.269,0.035,0.5,2.982,30.0,8.271
+Koke,Atletico Madrid,football,UCL,standout,0,0.05,0.159,3.49,1.786,30.0,8.271
+Jose Maria Gimenez,Atletico Madrid,football,UCL,defender,0,0.397,0.137,10.789,2.92,35.392,8.271
+Jan Oblak,Atletico Madrid,football,UCL,defender,1,0.257,0.161,7.625,3.752,36.845,8.271
+Harry Kane,Bayern Munich,football,UCL,goal_scorer,1,0.489,0.166,4.423,3.998,41.008,9.312
+Jamal Musiala,Bayern Munich,football,UCL,goal_scorer,1,0.491,0.206,2.558,3.452,39.573,9.312
+Leroy Sane,Bayern Munich,football,UCL,standout,0,0.164,0.081,0.5,1.536,30.0,9.312
+Thomas Muller,Bayern Munich,football,UCL,standout,0,0.252,0.176,2.559,1.469,30.0,9.312
+Joshua Kimmich,Bayern Munich,football,UCL,standout,0,0.427,0.071,1.361,3.059,30.0,9.312
+Matthijs de Ligt,Bayern Munich,football,UCL,defender,0,0.371,0.119,7.763,1.465,30.0,9.312
+Alphonso Davies,Bayern Munich,football,UCL,defender,0,0.251,0.059,3.686,3.186,30.0,9.312

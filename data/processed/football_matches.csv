@@ -1,0 +1,65 @@
+match_id,sport,tournament,team_a,team_b,venue,match_date,state,home_goals,away_goals,home_xg,away_xg
+epl_20250801_0000,football,EPL,Atletico Madrid,Real Madrid,Metropolitano Stadium,2025-08-01,historical,4,3,1.616,1.124
+ucl_20250802_0001,football,UCL,Manchester United,Real Madrid,Old Trafford,2025-08-02,historical,3,2,1.88,1.18
+laliga_20250803_0002,football,LALIGA,Tottenham Hotspur,Manchester City,Tottenham Hotspur Stadium,2025-08-03,historical,1,3,1.493,1.167
+epl_20250804_0003,football,EPL,Arsenal,Atletico Madrid,Emirates Stadium,2025-08-04,historical,3,1,1.768,1.153
+ucl_20250805_0004,football,UCL,Tottenham Hotspur,Chelsea,Tottenham Hotspur Stadium,2025-08-05,historical,0,3,1.498,1.543
+laliga_20250806_0005,football,LALIGA,Manchester City,Tottenham Hotspur,Etihad Stadium,2025-08-06,historical,1,0,1.466,1.194
+epl_20250807_0006,football,EPL,Manchester City,Newcastle United,Etihad Stadium,2025-08-07,historical,0,1,1.532,1.548
+ucl_20250808_0007,football,UCL,Chelsea,Aston Villa,Stamford Bridge,2025-08-08,historical,3,0,1.74,1.127
+laliga_20250809_0008,football,LALIGA,Atletico Madrid,Manchester United,Metropolitano Stadium,2025-08-09,historical,3,1,1.588,1.466
+epl_20250810_0009,football,EPL,Liverpool,Manchester United,Anfield,2025-08-10,historical,1,4,1.621,1.535
+ucl_20250811_0010,football,UCL,Manchester United,Tottenham Hotspur,Old Trafford,2025-08-11,historical,1,0,1.841,1.282
+laliga_20250812_0011,football,LALIGA,Atletico Madrid,Chelsea,Metropolitano Stadium,2025-08-12,historical,2,3,1.495,1.497
+epl_20250813_0012,football,EPL,Bayern Munich,Atletico Madrid,Allianz Arena,2025-08-13,historical,1,1,1.691,1.182
+ucl_20250814_0013,football,UCL,Atletico Madrid,Manchester City,Metropolitano Stadium,2025-08-14,historical,2,0,1.49,1.121
+laliga_20250815_0014,football,LALIGA,Real Madrid,Atletico Madrid,Santiago Bernabeu,2025-08-15,historical,1,3,1.417,1.304
+epl_20250816_0015,football,EPL,Liverpool,Barcelona,Anfield,2025-08-16,historical,2,0,1.675,1.4
+ucl_20250817_0016,football,UCL,Bayern Munich,Tottenham Hotspur,Allianz Arena,2025-08-17,historical,0,2,1.742,1.185
+laliga_20250818_0017,football,LALIGA,Liverpool,Aston Villa,Anfield,2025-08-18,historical,1,2,1.474,1.223
+epl_20250819_0018,football,EPL,Newcastle United,Chelsea,St James' Park,2025-08-19,historical,2,0,1.883,1.602
+ucl_20250820_0019,football,UCL,Atletico Madrid,Barcelona,Metropolitano Stadium,2025-08-20,historical,0,3,1.643,1.331
+laliga_20250821_0020,football,LALIGA,Tottenham Hotspur,Atletico Madrid,Tottenham Hotspur Stadium,2025-08-21,historical,4,0,1.528,1.27
+epl_20250822_0021,football,EPL,Manchester United,Arsenal,Old Trafford,2025-08-22,historical,2,1,1.71,1.502
+ucl_20250823_0022,football,UCL,Tottenham Hotspur,Arsenal,Tottenham Hotspur Stadium,2025-08-23,historical,0,3,1.449,1.492
+laliga_20250824_0023,football,LALIGA,Manchester United,Newcastle United,Old Trafford,2025-08-24,historical,3,1,1.908,1.635
+epl_20250825_0024,football,EPL,Chelsea,Manchester City,Stamford Bridge,2025-08-25,historical,1,0,1.788,1.095
+ucl_20250826_0025,football,UCL,Tottenham Hotspur,Real Madrid,Tottenham Hotspur Stadium,2025-08-26,historical,0,1,1.619,1.17
+laliga_20250827_0026,football,LALIGA,Bayern Munich,Manchester United,Allianz Arena,2025-08-27,historical,3,0,1.754,1.424
+epl_20250828_0027,football,EPL,Tottenham Hotspur,Atletico Madrid,Tottenham Hotspur Stadium,2025-08-28,historical,3,1,1.528,1.27
+ucl_20250829_0028,football,UCL,Aston Villa,Newcastle United,Villa Park,2025-08-29,historical,3,1,1.568,1.505
+laliga_20250830_0029,football,LALIGA,Atletico Madrid,Aston Villa,Metropolitano Stadium,2025-08-30,historical,1,2,1.442,1.154
+epl_20250831_0030,football,EPL,Liverpool,Chelsea,Anfield,2025-08-31,historical,1,1,1.528,1.566
+ucl_20250901_0031,football,UCL,Liverpool,Tottenham Hotspur,Anfield,2025-09-01,historical,3,1,1.61,1.295
+laliga_20250902_0032,football,LALIGA,Bayern Munich,Barcelona,Allianz Arena,2025-09-02,historical,0,1,1.808,1.29
+epl_20250903_0033,football,EPL,Barcelona,Chelsea,Estadi Olimpic Lluis Companys,2025-09-03,historical,4,1,1.613,1.601
+ucl_20250904_0034,football,UCL,Bayern Munich,Real Madrid,Allianz Arena,2025-09-04,historical,1,0,1.781,1.083
+laliga_20250905_0035,football,LALIGA,Newcastle United,Real Madrid,St James' Park,2025-09-05,historical,5,1,2.004,1.229
+epl_20250906_0036,football,EPL,Newcastle United,Manchester United,St James' Park,2025-09-06,historical,2,1,1.976,1.571
+ucl_20250907_0037,football,UCL,Tottenham Hotspur,Liverpool,Tottenham Hotspur Stadium,2025-09-07,historical,2,1,1.606,1.299
+laliga_20250908_0038,football,LALIGA,Barcelona,Aston Villa,Estadi Olimpic Lluis Companys,2025-09-08,historical,0,2,1.559,1.258
+epl_20250909_0039,football,EPL,Manchester City,Arsenal,Etihad Stadium,2025-09-09,historical,1,2,1.335,1.414
+ucl_20250910_0040,football,UCL,Manchester City,Liverpool,Etihad Stadium,2025-09-10,historical,0,0,1.492,1.222
+laliga_20250911_0041,football,LALIGA,Atletico Madrid,Liverpool,Metropolitano Stadium,2025-09-11,historical,0,1,1.604,1.253
+epl_20250912_0042,football,EPL,Atletico Madrid,Newcastle United,Metropolitano Stadium,2025-09-12,historical,3,3,1.644,1.579
+ucl_20250913_0043,football,UCL,Real Madrid,Manchester City,Santiago Bernabeu,2025-09-13,historical,0,2,1.381,1.202
+laliga_20250914_0044,football,LALIGA,Newcastle United,Bayern Munich,St James' Park,2025-09-14,historical,3,1,1.867,1.48
+epl_20250915_0045,football,EPL,Real Madrid,Aston Villa,Santiago Bernabeu,2025-09-15,historical,2,0,1.333,1.234
+ucl_20250916_0046,football,UCL,Barcelona,Chelsea,Estadi Olimpic Lluis Companys,2025-09-16,historical,4,2,1.613,1.601
+laliga_20250917_0047,football,LALIGA,Barcelona,Arsenal,Estadi Olimpic Lluis Companys,2025-09-17,historical,0,2,1.564,1.55
+epl_20250918_0048,football,EPL,Atletico Madrid,Manchester City,Metropolitano Stadium,2025-09-18,historical,3,1,1.49,1.121
+ucl_20250919_0049,football,UCL,Atletico Madrid,Barcelona,Metropolitano Stadium,2025-09-19,historical,3,0,1.643,1.331
+laliga_20250920_0050,football,LALIGA,Chelsea,Atletico Madrid,Stamford Bridge,2025-09-20,historical,2,0,1.824,1.197
+epl_20250921_0051,football,EPL,Manchester United,Manchester City,Old Trafford,2025-09-21,historical,0,1,1.754,1.177
+ucl_20250922_0052,football,UCL,Chelsea,Newcastle United,Stamford Bridge,2025-09-22,historical,2,1,1.942,1.552
+laliga_20250923_0053,football,LALIGA,Liverpool,Aston Villa,Anfield,2025-09-23,historical,1,0,1.474,1.223
+epl_20250924_0054,football,EPL,Arsenal,Chelsea,Emirates Stadium,2025-09-24,historical,0,0,1.738,1.427
+ucl_20250925_0055,football,UCL,Barcelona,Liverpool,Estadi Olimpic Lluis Companys,2025-09-25,historical,0,0,1.721,1.358
+laliga_20250926_0056,football,LALIGA,Barcelona,Manchester City,Estadi Olimpic Lluis Companys,2025-09-26,historical,2,1,1.607,1.226
+epl_20250927_0057,football,EPL,Atletico Madrid,Chelsea,Metropolitano Stadium,2025-09-27,historical,2,0,1.495,1.497
+ucl_20250928_0058,football,UCL,Atletico Madrid,Barcelona,Metropolitano Stadium,2025-09-28,historical,1,1,1.643,1.331
+laliga_20250929_0059,football,LALIGA,Real Madrid,Tottenham Hotspur,Santiago Bernabeu,2025-09-29,historical,0,1,1.468,1.306
+epl_20250930_0060,football,EPL,Liverpool,Manchester United,Anfield,2025-09-30,historical,0,1,1.621,1.535
+ucl_20251001_0061,football,UCL,Liverpool,Barcelona,Anfield,2025-10-01,historical,1,5,1.675,1.4
+laliga_20251002_0062,football,LALIGA,Barcelona,Arsenal,Estadi Olimpic Lluis Companys,2025-10-02,historical,0,3,1.564,1.55
+epl_20251003_0063,football,EPL,Real Madrid,Manchester United,Santiago Bernabeu,2025-10-03,historical,2,0,1.48,1.546

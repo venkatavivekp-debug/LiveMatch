@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "provider": "cricapi",
+  "sport": "cricket",
+  "tournament": "IPL",
+  "refreshed_at": "2026-04-20T01:36:42.492052+00:00",
+  "live_matches": 0,
+  "upcoming_matches": 0,
+  "provider_health": {
+    "provider": "cricapi",
+    "status": "unavailable",
+    "source": "unavailable",
+    "updated_at": null,
+    "freshness_seconds": null,
+    "healthy": false,
+    "live_overlay_source": "unavailable",
+    "live_overlay_updated_at": null,
+    "cache_entries": 0,
+    "cache_latest_updated_at": null,
+    "api_key_configured": false
+  }
+}

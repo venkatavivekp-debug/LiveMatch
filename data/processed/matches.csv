@@ -1,0 +1,141 @@
+match_id,match_date,tournament,team_a,team_b,venue,winner,toss_winner,toss_decision,first_innings_team,first_innings_total,first_innings_wickets,second_innings_team,second_innings_total,second_innings_wickets
+sample_20200920_0000,2020-09-20,IPL,Royal Challengers Bengaluru,Delhi Capitals,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Delhi Capitals,bat,Delhi Capitals,180,8,Royal Challengers Bengaluru,192,3
+sample_20200921_0001,2020-09-21,IPL,Rajasthan Royals,Sunrisers Hyderabad,Narendra Modi Stadium,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,190,6,Sunrisers Hyderabad,168,4
+sample_20200922_0002,2020-09-22,IPL,Chennai Super Kings,Royal Challengers Bengaluru,Narendra Modi Stadium,Royal Challengers Bengaluru,Chennai Super Kings,bat,Chennai Super Kings,186,10,Royal Challengers Bengaluru,227,7
+sample_20200923_0003,2020-09-23,IPL,Gujarat Titans,Sunrisers Hyderabad,MA Chidambaram Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Gujarat Titans,131,6,Sunrisers Hyderabad,142,4
+sample_20200924_0004,2020-09-24,IPL,Punjab Kings,Chennai Super Kings,Wankhede Stadium,Punjab Kings,Punjab Kings,bat,Punjab Kings,180,5,Chennai Super Kings,161,9
+sample_20200925_0005,2020-09-25,IPL,Lucknow Super Giants,Rajasthan Royals,Arun Jaitley Stadium,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,178,9,Lucknow Super Giants,145,5
+sample_20200926_0006,2020-09-26,IPL,Kolkata Knight Riders,Royal Challengers Bengaluru,M Chinnaswamy Stadium,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,161,8,Royal Challengers Bengaluru,154,7
+sample_20200927_0007,2020-09-27,IPL,Lucknow Super Giants,Royal Challengers Bengaluru,MA Chidambaram Stadium,Lucknow Super Giants,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,147,10,Lucknow Super Giants,148,9
+sample_20200928_0008,2020-09-28,IPL,Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,164,7,Chennai Super Kings,167,7
+sample_20200929_0009,2020-09-29,IPL,Lucknow Super Giants,Royal Challengers Bengaluru,Arun Jaitley Stadium,Lucknow Super Giants,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,136,8,Lucknow Super Giants,137,5
+sample_20200930_0010,2020-09-30,IPL,Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,156,5,Chennai Super Kings,165,9
+sample_20201001_0011,2020-10-01,IPL,Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,195,8,Kolkata Knight Riders,179,8
+sample_20201002_0012,2020-10-02,IPL,Punjab Kings,Royal Challengers Bengaluru,MA Chidambaram Stadium,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,120,3,Punjab Kings,118,6
+sample_20201003_0013,2020-10-03,IPL,Gujarat Titans,Chennai Super Kings,Arun Jaitley Stadium,Gujarat Titans,Gujarat Titans,field,Chennai Super Kings,168,6,Gujarat Titans,181,5
+sample_20201004_0014,2020-10-04,IPL,Delhi Capitals,Royal Challengers Bengaluru,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bengaluru,field,Delhi Capitals,187,4,Royal Challengers Bengaluru,181,5
+sample_20201005_0015,2020-10-05,IPL,Sunrisers Hyderabad,Rajasthan Royals,MA Chidambaram Stadium,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,170,5,Rajasthan Royals,167,8
+sample_20201006_0016,2020-10-06,IPL,Rajasthan Royals,Gujarat Titans,Narendra Modi Stadium,Gujarat Titans,Rajasthan Royals,field,Gujarat Titans,144,8,Rajasthan Royals,121,5
+sample_20201007_0017,2020-10-07,IPL,Rajasthan Royals,Royal Challengers Bengaluru,Arun Jaitley Stadium,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,167,6,Royal Challengers Bengaluru,140,5
+sample_20201008_0018,2020-10-08,IPL,Mumbai Indians,Sunrisers Hyderabad,MA Chidambaram Stadium,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,189,5,Sunrisers Hyderabad,202,7
+sample_20201009_0019,2020-10-09,IPL,Sunrisers Hyderabad,Delhi Capitals,Arun Jaitley Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,188,5,Sunrisers Hyderabad,192,7
+sample_20201010_0020,2020-10-10,IPL,Delhi Capitals,Sunrisers Hyderabad,M Chinnaswamy Stadium,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,215,9,Delhi Capitals,169,6
+sample_20201011_0021,2020-10-11,IPL,Sunrisers Hyderabad,Gujarat Titans,Eden Gardens,Gujarat Titans,Sunrisers Hyderabad,field,Gujarat Titans,164,5,Sunrisers Hyderabad,157,7
+sample_20201012_0022,2020-10-12,IPL,Sunrisers Hyderabad,Gujarat Titans,Arun Jaitley Stadium,Gujarat Titans,Sunrisers Hyderabad,field,Gujarat Titans,179,6,Sunrisers Hyderabad,147,4
+sample_20201013_0023,2020-10-13,IPL,Mumbai Indians,Rajasthan Royals,M Chinnaswamy Stadium,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,144,8,Mumbai Indians,127,6
+sample_20201014_0024,2020-10-14,IPL,Gujarat Titans,Sunrisers Hyderabad,Wankhede Stadium,Sunrisers Hyderabad,Gujarat Titans,field,Sunrisers Hyderabad,193,10,Gujarat Titans,174,6
+sample_20201015_0025,2020-10-15,IPL,Kolkata Knight Riders,Royal Challengers Bengaluru,Arun Jaitley Stadium,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,172,6,Royal Challengers Bengaluru,168,6
+sample_20201016_0026,2020-10-16,IPL,Sunrisers Hyderabad,Punjab Kings,Narendra Modi Stadium,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,162,6,Punjab Kings,157,5
+sample_20201017_0027,2020-10-17,IPL,Rajasthan Royals,Sunrisers Hyderabad,M Chinnaswamy Stadium,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,193,7,Sunrisers Hyderabad,187,8
+sample_20201018_0028,2020-10-18,IPL,Mumbai Indians,Delhi Capitals,Eden Gardens,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,206,4,Mumbai Indians,228,6
+sample_20201019_0029,2020-10-19,IPL,Delhi Capitals,Royal Challengers Bengaluru,Eden Gardens,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,195,7,Royal Challengers Bengaluru,171,9
+sample_20201020_0030,2020-10-20,IPL,Rajasthan Royals,Delhi Capitals,M Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,field,Delhi Capitals,179,4,Rajasthan Royals,147,6
+sample_20201021_0031,2020-10-21,IPL,Royal Challengers Bengaluru,Punjab Kings,Arun Jaitley Stadium,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,173,9,Punjab Kings,169,6
+sample_20201022_0032,2020-10-22,IPL,Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,194,7,Gujarat Titans,185,8
+sample_20201023_0033,2020-10-23,IPL,Chennai Super Kings,Lucknow Super Giants,Arun Jaitley Stadium,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,135,10,Chennai Super Kings,124,3
+sample_20201024_0034,2020-10-24,IPL,Lucknow Super Giants,Punjab Kings,Eden Gardens,Lucknow Super Giants,Punjab Kings,field,Lucknow Super Giants,158,6,Punjab Kings,145,9
+sample_20201025_0035,2020-10-25,IPL,Sunrisers Hyderabad,Rajasthan Royals,M Chinnaswamy Stadium,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,174,5,Rajasthan Royals,181,2
+sample_20201026_0036,2020-10-26,IPL,Delhi Capitals,Kolkata Knight Riders,M Chinnaswamy Stadium,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,191,6,Kolkata Knight Riders,201,9
+sample_20201027_0037,2020-10-27,IPL,Royal Challengers Bengaluru,Kolkata Knight Riders,MA Chidambaram Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Royal Challengers Bengaluru,154,6,Kolkata Knight Riders,120,7
+sample_20201028_0038,2020-10-28,IPL,Lucknow Super Giants,Rajasthan Royals,Arun Jaitley Stadium,Lucknow Super Giants,Lucknow Super Giants,field,Rajasthan Royals,157,9,Lucknow Super Giants,158,5
+sample_20201029_0039,2020-10-29,IPL,Mumbai Indians,Royal Challengers Bengaluru,MA Chidambaram Stadium,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,135,4,Mumbai Indians,117,6
+sample_20201030_0040,2020-10-30,IPL,Gujarat Titans,Mumbai Indians,Narendra Modi Stadium,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,159,3,Mumbai Indians,148,8
+sample_20201031_0041,2020-10-31,IPL,Punjab Kings,Chennai Super Kings,Arun Jaitley Stadium,Punjab Kings,Punjab Kings,field,Chennai Super Kings,195,5,Punjab Kings,207,8
+sample_20201101_0042,2020-11-01,IPL,Gujarat Titans,Rajasthan Royals,Eden Gardens,Gujarat Titans,Gujarat Titans,field,Rajasthan Royals,181,4,Gujarat Titans,194,5
+sample_20201102_0043,2020-11-02,IPL,Gujarat Titans,Mumbai Indians,Arun Jaitley Stadium,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,190,8,Gujarat Titans,187,6
+sample_20201103_0044,2020-11-03,IPL,Chennai Super Kings,Royal Challengers Bengaluru,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bengaluru,field,Chennai Super Kings,182,6,Royal Challengers Bengaluru,167,6
+sample_20201104_0045,2020-11-04,IPL,Lucknow Super Giants,Punjab Kings,Eden Gardens,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,171,8,Punjab Kings,170,4
+sample_20201105_0046,2020-11-05,IPL,Kolkata Knight Riders,Royal Challengers Bengaluru,M Chinnaswamy Stadium,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bengaluru,187,7,Kolkata Knight Riders,190,5
+sample_20201106_0047,2020-11-06,IPL,Kolkata Knight Riders,Punjab Kings,Narendra Modi Stadium,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,178,7,Kolkata Knight Riders,193,6
+sample_20201107_0048,2020-11-07,IPL,Gujarat Titans,Punjab Kings,MA Chidambaram Stadium,Gujarat Titans,Punjab Kings,field,Gujarat Titans,168,3,Punjab Kings,161,7
+sample_20201108_0049,2020-11-08,IPL,Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,Gujarat Titans,Delhi Capitals,field,Gujarat Titans,151,4,Delhi Capitals,123,5
+sample_20201109_0050,2020-11-09,IPL,Chennai Super Kings,Punjab Kings,M Chinnaswamy Stadium,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,160,8,Punjab Kings,159,4
+sample_20201110_0051,2020-11-10,IPL,Rajasthan Royals,Kolkata Knight Riders,Arun Jaitley Stadium,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,131,6,Rajasthan Royals,152,6
+sample_20201111_0052,2020-11-11,IPL,Delhi Capitals,Royal Challengers Bengaluru,MA Chidambaram Stadium,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,181,5,Royal Challengers Bengaluru,152,9
+sample_20201112_0053,2020-11-12,IPL,Lucknow Super Giants,Royal Challengers Bengaluru,Wankhede Stadium,Lucknow Super Giants,Royal Challengers Bengaluru,field,Lucknow Super Giants,155,6,Royal Challengers Bengaluru,136,3
+sample_20201113_0054,2020-11-13,IPL,Rajasthan Royals,Mumbai Indians,Arun Jaitley Stadium,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,174,5,Mumbai Indians,195,5
+sample_20201114_0055,2020-11-14,IPL,Kolkata Knight Riders,Rajasthan Royals,Arun Jaitley Stadium,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,180,2,Rajasthan Royals,165,7
+sample_20201115_0056,2020-11-15,IPL,Sunrisers Hyderabad,Lucknow Super Giants,Narendra Modi Stadium,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,158,4,Sunrisers Hyderabad,136,7
+sample_20201116_0057,2020-11-16,IPL,Delhi Capitals,Lucknow Super Giants,M Chinnaswamy Stadium,Delhi Capitals,Delhi Capitals,field,Lucknow Super Giants,178,5,Delhi Capitals,186,9
+sample_20201117_0058,2020-11-17,IPL,Lucknow Super Giants,Sunrisers Hyderabad,Narendra Modi Stadium,Sunrisers Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,187,7,Sunrisers Hyderabad,188,8
+sample_20201118_0059,2020-11-18,IPL,Sunrisers Hyderabad,Lucknow Super Giants,Eden Gardens,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,163,5,Sunrisers Hyderabad,177,8
+sample_20201119_0060,2020-11-19,IPL,Sunrisers Hyderabad,Mumbai Indians,Eden Gardens,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,211,6,Sunrisers Hyderabad,183,6
+sample_20201120_0061,2020-11-20,IPL,Lucknow Super Giants,Kolkata Knight Riders,Narendra Modi Stadium,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,189,9,Kolkata Knight Riders,181,9
+sample_20201121_0062,2020-11-21,IPL,Kolkata Knight Riders,Sunrisers Hyderabad,Wankhede Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,212,5,Kolkata Knight Riders,199,6
+sample_20201122_0063,2020-11-22,IPL,Lucknow Super Giants,Rajasthan Royals,Eden Gardens,Rajasthan Royals,Lucknow Super Giants,bat,Lucknow Super Giants,146,5,Rajasthan Royals,156,6
+sample_20201123_0064,2020-11-23,IPL,Sunrisers Hyderabad,Delhi Capitals,Narendra Modi Stadium,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,190,7,Delhi Capitals,167,6
+sample_20201124_0065,2020-11-24,IPL,Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,Gujarat Titans,Delhi Capitals,field,Gujarat Titans,167,4,Delhi Capitals,157,2
+sample_20201125_0066,2020-11-25,IPL,Gujarat Titans,Lucknow Super Giants,Narendra Modi Stadium,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,184,2,Gujarat Titans,184,8
+sample_20201126_0067,2020-11-26,IPL,Chennai Super Kings,Sunrisers Hyderabad,Narendra Modi Stadium,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,155,4,Chennai Super Kings,157,4
+sample_20201127_0068,2020-11-27,IPL,Royal Challengers Bengaluru,Rajasthan Royals,Arun Jaitley Stadium,Royal Challengers Bengaluru,Rajasthan Royals,field,Royal Challengers Bengaluru,177,5,Rajasthan Royals,147,7
+sample_20201128_0069,2020-11-28,IPL,Rajasthan Royals,Sunrisers Hyderabad,Narendra Modi Stadium,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,199,7,Sunrisers Hyderabad,157,6
+sample_20201129_0070,2020-11-29,IPL,Gujarat Titans,Punjab Kings,Narendra Modi Stadium,Punjab Kings,Punjab Kings,bat,Punjab Kings,189,7,Gujarat Titans,189,4
+sample_20201130_0071,2020-11-30,IPL,Lucknow Super Giants,Kolkata Knight Riders,Narendra Modi Stadium,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,148,5,Lucknow Super Giants,144,5
+sample_20201201_0072,2020-12-01,IPL,Royal Challengers Bengaluru,Punjab Kings,Arun Jaitley Stadium,Punjab Kings,Punjab Kings,bat,Punjab Kings,180,8,Royal Challengers Bengaluru,167,8
+sample_20201202_0073,2020-12-02,IPL,Kolkata Knight Riders,Sunrisers Hyderabad,M Chinnaswamy Stadium,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,188,8,Sunrisers Hyderabad,170,6
+sample_20201203_0074,2020-12-03,IPL,Gujarat Titans,Sunrisers Hyderabad,Arun Jaitley Stadium,Gujarat Titans,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,214,7,Gujarat Titans,224,6
+sample_20201204_0075,2020-12-04,IPL,Chennai Super Kings,Lucknow Super Giants,Eden Gardens,Chennai Super Kings,Lucknow Super Giants,bat,Lucknow Super Giants,166,7,Chennai Super Kings,173,6
+sample_20201205_0076,2020-12-05,IPL,Royal Challengers Bengaluru,Mumbai Indians,MA Chidambaram Stadium,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,194,8,Mumbai Indians,173,7
+sample_20201206_0077,2020-12-06,IPL,Delhi Capitals,Rajasthan Royals,M Chinnaswamy Stadium,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,173,5,Delhi Capitals,171,9
+sample_20201207_0078,2020-12-07,IPL,Royal Challengers Bengaluru,Lucknow Super Giants,Wankhede Stadium,Royal Challengers Bengaluru,Lucknow Super Giants,field,Royal Challengers Bengaluru,148,3,Lucknow Super Giants,133,7
+sample_20201208_0079,2020-12-08,IPL,Lucknow Super Giants,Mumbai Indians,Arun Jaitley Stadium,Lucknow Super Giants,Mumbai Indians,bat,Mumbai Indians,185,8,Lucknow Super Giants,191,6
+sample_20201209_0080,2020-12-09,IPL,Punjab Kings,Kolkata Knight Riders,Narendra Modi Stadium,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,162,6,Punjab Kings,149,8
+sample_20201210_0081,2020-12-10,IPL,Kolkata Knight Riders,Royal Challengers Bengaluru,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,field,Royal Challengers Bengaluru,167,7,Kolkata Knight Riders,160,10
+sample_20201211_0082,2020-12-11,IPL,Kolkata Knight Riders,Punjab Kings,M Chinnaswamy Stadium,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,164,7,Kolkata Knight Riders,153,7
+sample_20201212_0083,2020-12-12,IPL,Punjab Kings,Royal Challengers Bengaluru,Arun Jaitley Stadium,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Punjab Kings,188,8,Royal Challengers Bengaluru,194,8
+sample_20201213_0084,2020-12-13,IPL,Gujarat Titans,Punjab Kings,Wankhede Stadium,Gujarat Titans,Gujarat Titans,field,Punjab Kings,156,10,Gujarat Titans,160,7
+sample_20201214_0085,2020-12-14,IPL,Chennai Super Kings,Lucknow Super Giants,Narendra Modi Stadium,Chennai Super Kings,Chennai Super Kings,field,Lucknow Super Giants,190,8,Chennai Super Kings,204,6
+sample_20201215_0086,2020-12-15,IPL,Royal Challengers Bengaluru,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,205,10,Royal Challengers Bengaluru,168,8
+sample_20201216_0087,2020-12-16,IPL,Sunrisers Hyderabad,Rajasthan Royals,Narendra Modi Stadium,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,188,4,Rajasthan Royals,201,6
+sample_20201217_0088,2020-12-17,IPL,Delhi Capitals,Sunrisers Hyderabad,MA Chidambaram Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,147,4,Sunrisers Hyderabad,156,8
+sample_20201218_0089,2020-12-18,IPL,Punjab Kings,Delhi Capitals,MA Chidambaram Stadium,Delhi Capitals,Delhi Capitals,field,Punjab Kings,134,6,Delhi Capitals,158,10
+sample_20201219_0090,2020-12-19,IPL,Royal Challengers Bengaluru,Mumbai Indians,MA Chidambaram Stadium,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,165,9,Royal Challengers Bengaluru,158,6
+sample_20201220_0091,2020-12-20,IPL,Sunrisers Hyderabad,Delhi Capitals,M Chinnaswamy Stadium,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,185,5,Sunrisers Hyderabad,174,9
+sample_20201221_0092,2020-12-21,IPL,Kolkata Knight Riders,Chennai Super Kings,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,172,8,Kolkata Knight Riders,157,8
+sample_20201222_0093,2020-12-22,IPL,Royal Challengers Bengaluru,Sunrisers Hyderabad,Narendra Modi Stadium,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,168,5,Sunrisers Hyderabad,168,6
+sample_20201223_0094,2020-12-23,IPL,Punjab Kings,Lucknow Super Giants,Eden Gardens,Punjab Kings,Lucknow Super Giants,bat,Lucknow Super Giants,182,10,Punjab Kings,198,9
+sample_20201224_0095,2020-12-24,IPL,Mumbai Indians,Chennai Super Kings,Narendra Modi Stadium,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,155,6,Mumbai Indians,134,5
+sample_20201225_0096,2020-12-25,IPL,Lucknow Super Giants,Chennai Super Kings,Narendra Modi Stadium,Chennai Super Kings,Lucknow Super Giants,bat,Lucknow Super Giants,165,7,Chennai Super Kings,174,8
+sample_20201226_0097,2020-12-26,IPL,Gujarat Titans,Delhi Capitals,Narendra Modi Stadium,Gujarat Titans,Gujarat Titans,field,Delhi Capitals,182,8,Gujarat Titans,202,9
+sample_20201227_0098,2020-12-27,IPL,Sunrisers Hyderabad,Royal Challengers Bengaluru,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,171,8,Royal Challengers Bengaluru,157,6
+sample_20201228_0099,2020-12-28,IPL,Kolkata Knight Riders,Royal Challengers Bengaluru,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,174,7,Kolkata Knight Riders,167,2
+sample_20201229_0100,2020-12-29,IPL,Punjab Kings,Gujarat Titans,M Chinnaswamy Stadium,Gujarat Titans,Punjab Kings,bat,Punjab Kings,172,8,Gujarat Titans,202,3
+sample_20201230_0101,2020-12-30,IPL,Rajasthan Royals,Chennai Super Kings,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,139,4,Rajasthan Royals,120,7
+sample_20201231_0102,2020-12-31,IPL,Royal Challengers Bengaluru,Lucknow Super Giants,MA Chidambaram Stadium,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bengaluru,168,10,Lucknow Super Giants,179,3
+sample_20210101_0103,2021-01-01,IPL,Delhi Capitals,Rajasthan Royals,Arun Jaitley Stadium,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,181,7,Delhi Capitals,173,5
+sample_20210102_0104,2021-01-02,IPL,Kolkata Knight Riders,Mumbai Indians,Narendra Modi Stadium,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,190,5,Mumbai Indians,185,4
+sample_20210103_0105,2021-01-03,IPL,Sunrisers Hyderabad,Punjab Kings,Narendra Modi Stadium,Sunrisers Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,183,7,Punjab Kings,172,8
+sample_20210104_0106,2021-01-04,IPL,Rajasthan Royals,Kolkata Knight Riders,M Chinnaswamy Stadium,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,203,6,Rajasthan Royals,221,10
+sample_20210105_0107,2021-01-05,IPL,Royal Challengers Bengaluru,Rajasthan Royals,Wankhede Stadium,Royal Challengers Bengaluru,Rajasthan Royals,bat,Rajasthan Royals,170,5,Royal Challengers Bengaluru,210,6
+sample_20210106_0108,2021-01-06,IPL,Lucknow Super Giants,Kolkata Knight Riders,Arun Jaitley Stadium,Kolkata Knight Riders,Lucknow Super Giants,bat,Lucknow Super Giants,161,9,Kolkata Knight Riders,168,4
+sample_20210107_0109,2021-01-07,IPL,Rajasthan Royals,Sunrisers Hyderabad,M Chinnaswamy Stadium,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,176,5,Sunrisers Hyderabad,153,9
+sample_20210108_0110,2021-01-08,IPL,Royal Challengers Bengaluru,Rajasthan Royals,Wankhede Stadium,Rajasthan Royals,Royal Challengers Bengaluru,field,Rajasthan Royals,182,8,Royal Challengers Bengaluru,172,3
+sample_20210109_0111,2021-01-09,IPL,Royal Challengers Bengaluru,Punjab Kings,Arun Jaitley Stadium,Punjab Kings,Punjab Kings,bat,Punjab Kings,162,7,Royal Challengers Bengaluru,158,3
+sample_20210110_0112,2021-01-10,IPL,Royal Challengers Bengaluru,Punjab Kings,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,148,5,Punjab Kings,148,3
+sample_20210111_0113,2021-01-11,IPL,Delhi Capitals,Lucknow Super Giants,Arun Jaitley Stadium,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,178,9,Delhi Capitals,176,8
+sample_20210112_0114,2021-01-12,IPL,Kolkata Knight Riders,Gujarat Titans,Arun Jaitley Stadium,Kolkata Knight Riders,Kolkata Knight Riders,field,Gujarat Titans,140,4,Kolkata Knight Riders,147,6
+sample_20210113_0115,2021-01-13,IPL,Gujarat Titans,Punjab Kings,Wankhede Stadium,Punjab Kings,Punjab Kings,bat,Punjab Kings,180,8,Gujarat Titans,175,2
+sample_20210114_0116,2021-01-14,IPL,Sunrisers Hyderabad,Chennai Super Kings,Narendra Modi Stadium,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,184,8,Chennai Super Kings,195,7
+sample_20210115_0117,2021-01-15,IPL,Delhi Capitals,Gujarat Titans,Wankhede Stadium,Gujarat Titans,Delhi Capitals,field,Gujarat Titans,164,5,Delhi Capitals,161,10
+sample_20210116_0118,2021-01-16,IPL,Kolkata Knight Riders,Gujarat Titans,Eden Gardens,Gujarat Titans,Gujarat Titans,bat,Gujarat Titans,196,6,Kolkata Knight Riders,176,4
+sample_20210117_0119,2021-01-17,IPL,Gujarat Titans,Mumbai Indians,MA Chidambaram Stadium,Mumbai Indians,Gujarat Titans,field,Mumbai Indians,171,6,Gujarat Titans,162,7
+sample_20210118_0120,2021-01-18,IPL,Kolkata Knight Riders,Rajasthan Royals,MA Chidambaram Stadium,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,167,7,Kolkata Knight Riders,169,4
+sample_20210119_0121,2021-01-19,IPL,Sunrisers Hyderabad,Delhi Capitals,Eden Gardens,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,186,5,Sunrisers Hyderabad,185,9
+sample_20210120_0122,2021-01-20,IPL,Kolkata Knight Riders,Rajasthan Royals,MA Chidambaram Stadium,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,175,5,Kolkata Knight Riders,193,9
+sample_20210121_0123,2021-01-21,IPL,Lucknow Super Giants,Kolkata Knight Riders,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,field,Kolkata Knight Riders,156,6,Lucknow Super Giants,136,6
+sample_20210122_0124,2021-01-22,IPL,Sunrisers Hyderabad,Rajasthan Royals,Eden Gardens,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,210,3,Rajasthan Royals,212,5
+sample_20210123_0125,2021-01-23,IPL,Royal Challengers Bengaluru,Mumbai Indians,M Chinnaswamy Stadium,Royal Challengers Bengaluru,Mumbai Indians,field,Royal Challengers Bengaluru,174,6,Mumbai Indians,170,9
+sample_20210124_0126,2021-01-24,IPL,Royal Challengers Bengaluru,Sunrisers Hyderabad,MA Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,196,9,Royal Challengers Bengaluru,194,4
+sample_20210125_0127,2021-01-25,IPL,Chennai Super Kings,Royal Challengers Bengaluru,Wankhede Stadium,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bengaluru,177,9,Chennai Super Kings,200,4
+sample_20210126_0128,2021-01-26,IPL,Mumbai Indians,Lucknow Super Giants,Arun Jaitley Stadium,Lucknow Super Giants,Lucknow Super Giants,bat,Lucknow Super Giants,205,4,Mumbai Indians,185,8
+sample_20210127_0129,2021-01-27,IPL,Kolkata Knight Riders,Rajasthan Royals,Arun Jaitley Stadium,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,144,8,Rajasthan Royals,141,5
+sample_20210128_0130,2021-01-28,IPL,Lucknow Super Giants,Mumbai Indians,MA Chidambaram Stadium,Mumbai Indians,Lucknow Super Giants,field,Mumbai Indians,175,3,Lucknow Super Giants,148,9
+sample_20210129_0131,2021-01-29,IPL,Delhi Capitals,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,201,8,Chennai Super Kings,221,3
+sample_20210130_0132,2021-01-30,IPL,Kolkata Knight Riders,Chennai Super Kings,M Chinnaswamy Stadium,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders,167,6,Chennai Super Kings,163,4
+sample_20210131_0133,2021-01-31,IPL,Chennai Super Kings,Gujarat Titans,M Chinnaswamy Stadium,Gujarat Titans,Chennai Super Kings,field,Gujarat Titans,169,6,Chennai Super Kings,152,9
+sample_20210201_0134,2021-02-01,IPL,Lucknow Super Giants,Gujarat Titans,Eden Gardens,Gujarat Titans,Lucknow Super Giants,bat,Lucknow Super Giants,185,6,Gujarat Titans,199,6
+sample_20210202_0135,2021-02-02,IPL,Lucknow Super Giants,Royal Challengers Bengaluru,Arun Jaitley Stadium,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,Royal Challengers Bengaluru,150,6,Lucknow Super Giants,136,6
+sample_20210203_0136,2021-02-03,IPL,Kolkata Knight Riders,Punjab Kings,Wankhede Stadium,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,144,10,Kolkata Knight Riders,126,6
+sample_20210204_0137,2021-02-04,IPL,Kolkata Knight Riders,Punjab Kings,M Chinnaswamy Stadium,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,175,5,Kolkata Knight Riders,172,7
+sample_20210205_0138,2021-02-05,IPL,Lucknow Super Giants,Royal Challengers Bengaluru,Arun Jaitley Stadium,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bengaluru,150,7,Lucknow Super Giants,165,10
+sample_20210206_0139,2021-02-06,IPL,Delhi Capitals,Gujarat Titans,Wankhede Stadium,Delhi Capitals,Gujarat Titans,field,Delhi Capitals,170,7,Gujarat Titans,159,7
